@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APIPlug Demo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Custom Strings For App -->
+    <string name="loading_title">Loading</string>
+    <string name="loading_please_wait">Please wait while loading data!</string>
+    <string name="share_text">Learn how to build an Android App connected to your REST-API in 10 minutes https://apiplug.com/blog </string>
+</resources>

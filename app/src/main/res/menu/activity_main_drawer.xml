@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_actors"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Actors" />
+        <item
+            android:id="@+id/nav_countries"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Countries" />
+        <item
+            android:id="@+id/nav_films"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Films" />
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share This App Tutorial" />
+            <item
+                android:id="@+id/nav_apiplug"
+                android:icon="@drawable/apiplug"
+                android:title="API Plug" />
+        </menu>
+    </item>
+
+</menu>
